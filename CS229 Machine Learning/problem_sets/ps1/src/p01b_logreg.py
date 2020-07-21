@@ -22,7 +22,8 @@ def main(train_path, eval_path, pred_path):
     # Plot decision boundary on top of validation set set
     x_val, y_val = util.load_dataset(eval_path, add_intercept=True)
     y_pred = model.predict(x_val)
-    util.plot(x_val, y_val, model.theta, '{}.png'.format(pred_path))
+    util.plot(x_val, y_val, model.theta,
+              '{}.png'.format(pred_path.split(".")[0]))
     # Use np.savetxt to save predictions on eval set to pred_path
     np.savetxt(pred_path, y_pred)
     # *** END CODE HERE ***

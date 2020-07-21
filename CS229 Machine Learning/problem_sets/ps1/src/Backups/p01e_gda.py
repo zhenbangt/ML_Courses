@@ -23,7 +23,7 @@ def main(train_path, eval_path, pred_path):
     x_val, y_val = util.load_dataset(eval_path, add_intercept=False)
     y_pred = model.predict(x_val)
     util.plot(x_val, y_val, model.theta, '{}.png'.format(pred_path))
-    
+
     # Use np.savetxt to save outputs from validation set to pred_path
     np.savetxt(pred_path, y_pred)
     # *** END CODE HERE ***
@@ -51,15 +51,16 @@ class GDA(LinearModel):
         diff[y == 1] -= mu_1
         sigma = (1 / m) * diff.T.dot(diff)
         # Write theta in terms of the parameters
-        
+
         from numpy.linalg import inv
         sigma_inv = inv(sigma)
         theta = inv(sigma).dot(mu_1 - mu_0)
-        theta0 = 0.5 * (mu_0.T.dot(sigma_inv).dot(mu_0) - mu_1.T.dot(sigma_inv).dot(mu_1)) - np.log((1 - phi) / phi)
+        theta0 = 0.5 * (mu_0.T.dot(sigma_inv).dot(mu_0) -
+                        mu_1.T.dot(sigma_inv).dot(mu_1)) - np.log((1 - phi) / phi)
         theta0 = np.array([theta0])
         theta = np.hstack([theta0, theta])
         self.theta = theta
-        
+
         return theta
         # *** END CODE HERE ***
 
@@ -74,9 +75,9 @@ class GDA(LinearModel):
         """
         # *** START CODE HERE ***
         # we do not assume that intercept is added.
-        sigmoid = lambda z: 1 / (1 + np.exp(-z))
+        def sigmoid(z): return 1 / (1 + np.exp(-z))
         x = util.add_intercept(x)
-        probs = sigmoid(x.dot(self.theta))
+        probs = sigmoid(x.dot(self.theta.T))
         preds = (probs >= 0.5).astype(np.int)
         return preds
         # *** END CODE HERE

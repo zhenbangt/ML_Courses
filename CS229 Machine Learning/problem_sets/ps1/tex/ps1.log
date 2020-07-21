@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.11.7)  15 JUL 2020 23:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.11.7)  21 JUL 2020 16:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -339,36 +339,96 @@ Non-PDF special ignored!
 {d:/miscel/TexLive/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
-(./01-linreg/01-logreg.tex (./01-linreg/01-logreg-sol.tex))
-(./01-linreg/02-solve-logreg.tex [2
+(./01-linreg/01-logreg.tex (./01-linreg/01-logreg-sol.tex [2
 
-] (./01-linreg/02-solve-logreg-sol.tex))
-(./01-linreg/03-gda.tex [3
+]))
+(./01-linreg/02-solve-logreg.tex [3] (./01-linreg/02-solve-logreg-sol.tex
+<C:/Users/feroc/OneDrive/Notability/CS229 Machine Learning/problem_sets/ps1/src
+/output/p01b_pred_1.png, id=26, 462.528pt x 346.896pt>
+File: C:/Users/feroc/OneDrive/Notability/CS229 Machine Learning/problem_sets/ps
+1/src/output/p01b_pred_1.png Graphic file (type png)
+<use C:/Users/feroc/OneDrive/Notability/CS229 Machine Learning/problem_sets/ps1
+/src/output/p01b_pred_1.png>
+Package pdftex.def Info: C:/Users/feroc/OneDrive/Notability/CS229 Machine Learn
+ing/problem_sets/ps1/src/output/p01b_pred_1.png  used on input line 3.
+(pdftex.def)             Requested size: 208.65086pt x 156.49014pt.
+<C:/Users/feroc/OneDrive/Notability/CS229 Machine Learning/problem_sets/ps1/src
+/output/p01b_pred_2.png, id=28, 462.528pt x 346.896pt>
+File: C:/Users/feroc/OneDrive/Notability/CS229 Machine Learning/problem_sets/ps
+1/src/output/p01b_pred_2.png Graphic file (type png)
+<use C:/Users/feroc/OneDrive/Notability/CS229 Machine Learning/problem_sets/ps1
+/src/output/p01b_pred_2.png>
+Package pdftex.def Info: C:/Users/feroc/OneDrive/Notability/CS229 Machine Learn
+ing/problem_sets/ps1/src/output/p01b_pred_2.png  used on input line 4.
+(pdftex.def)             Requested size: 208.65086pt x 156.49014pt.
 
-] (./01-linreg/03-gda-sol.tex
-Overfull \hbox (8.56485pt too wide) detected at line 10
+Overfull \hbox (2.25395pt too wide) in paragraph at lines 3--5
+[][] [] 
+ []
+
+)) (./01-linreg/03-gda.tex [4
+
+ <c:/Users/feroc/OneDrive/Notability/CS229 Machine Learning/problem_sets/ps1/sr
+c/output/p01b_pred_1.png> <c:/Users/feroc/OneDrive/Notability/CS229 Machine Lea
+rning/problem_sets/ps1/src/output/p01b_pred_2.png>] (./01-linreg/03-gda-sol.tex
+
+Overfull \hbox (43.78716pt too wide) detected at line 11
 [][]
  []
 
-)) (./01-linreg/04-gda-ll.tex [4
+)) (./01-linreg/04-gda-ll.tex [5
 
 ] (./01-linreg/04-gda-ll-sol.tex
-Overfull \hbox (210.6203pt too wide) detected at line 8
-[][]
+LaTeX Font Info:    Trying to load font information for U+bbm on input line 11.
+
+
+(d:/miscel/TexLive/texlive/2019/texmf-dist/tex/latex/bbm-macros/ubbm.fd
+File: ubbm.fd 1999/03/15 V 1.2 Font definition for bbm font - TH
+)
+[6
+
+])) (./01-linreg/05-solve-gda.tex [7] (./01-linreg/05-solve-gda-sol.tex
+<C:/Users/feroc/OneDrive/Notability/CS229 Machine Learning/problem_sets/ps1/src
+/output/p01e_pred_1.png, id=47, 462.528pt x 346.896pt>
+File: C:/Users/feroc/OneDrive/Notability/CS229 Machine Learning/problem_sets/ps
+1/src/output/p01e_pred_1.png Graphic file (type png)
+<use C:/Users/feroc/OneDrive/Notability/CS229 Machine Learning/problem_sets/ps1
+/src/output/p01e_pred_1.png>
+Package pdftex.def Info: C:/Users/feroc/OneDrive/Notability/CS229 Machine Learn
+ing/problem_sets/ps1/src/output/p01e_pred_1.png  used on input line 3.
+(pdftex.def)             Requested size: 208.65086pt x 156.49014pt.
+<C:/Users/feroc/OneDrive/Notability/CS229 Machine Learning/problem_sets/ps1/src
+/output/p01e_pred_2.png, id=48, 462.528pt x 346.896pt>
+File: C:/Users/feroc/OneDrive/Notability/CS229 Machine Learning/problem_sets/ps
+1/src/output/p01e_pred_2.png Graphic file (type png)
+<use C:/Users/feroc/OneDrive/Notability/CS229 Machine Learning/problem_sets/ps1
+/src/output/p01e_pred_2.png>
+Package pdftex.def Info: C:/Users/feroc/OneDrive/Notability/CS229 Machine Learn
+ing/problem_sets/ps1/src/output/p01e_pred_2.png  used on input line 4.
+(pdftex.def)             Requested size: 208.65086pt x 156.49014pt.
+))
+(./01-linreg/06-plot-ds1.tex
+Overfull \hbox (24.25395pt too wide) in paragraph at lines 1--1
+[] []
  []
 
-)) (./01-linreg/05-solve-gda.tex [5
 
-] (./01-linreg/05-solve-gda-sol.tex))
-(./01-linreg/06-plot-ds1.tex [6
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
 
-] (./01-linreg/06-plot-ds1-sol.tex
-<pics/p01b_1.png, id=36, 462.528pt x 346.896pt>
+ []
+
+[8
+
+ <c:/Users/feroc/OneDrive/Notability/CS229 Machine Learning/problem_sets/ps1/sr
+c/output/p01e_pred_1.png> <c:/Users/feroc/OneDrive/Notability/CS229 Machine Lea
+rning/problem_sets/ps1/src/output/p01e_pred_2.png>]
+(./01-linreg/06-plot-ds1-sol.tex
+<pics/p01b_1.png, id=54, 462.528pt x 346.896pt>
 File: pics/p01b_1.png Graphic file (type png)
 <use pics/p01b_1.png>
 Package pdftex.def Info: pics/p01b_1.png  used on input line 5.
 (pdftex.def)             Requested size: 208.635pt x 156.47757pt.
-<pics/p01e_1.png, id=38, 462.528pt x 346.896pt>
+<pics/p01e_1.png, id=55, 462.528pt x 346.896pt>
 File: pics/p01e_1.png Graphic file (type png)
 <use pics/p01e_1.png>
 Package pdftex.def Info: pics/p01e_1.png  used on input line 10.
@@ -378,16 +438,16 @@ Overfull \hbox (2.22221pt too wide) in paragraph at lines 3--13
 [][] [] 
  []
 
-)) (./01-linreg/07-plot-ds2.tex [7
+)) (./01-linreg/07-plot-ds2.tex [9
 
  <./pics/p01b_1.png> <./pics/p01e_1.png>]
 (./01-linreg/07-plot-ds2-sol.tex
-<pics/p01b_2.png, id=46, 462.528pt x 346.896pt>
+<pics/p01b_2.png, id=62, 462.528pt x 346.896pt>
 File: pics/p01b_2.png Graphic file (type png)
 <use pics/p01b_2.png>
 Package pdftex.def Info: pics/p01b_2.png  used on input line 5.
 (pdftex.def)             Requested size: 208.635pt x 156.47757pt.
-<pics/p01e_2.png, id=47, 462.528pt x 346.896pt>
+<pics/p01e_2.png, id=63, 462.528pt x 346.896pt>
 File: pics/p01e_2.png Graphic file (type png)
 <use pics/p01e_2.png>
 Package pdftex.def Info: pics/p01e_2.png  used on input line 10.
@@ -397,87 +457,115 @@ Overfull \hbox (2.22221pt too wide) in paragraph at lines 3--13
 [][] [] 
  []
 
-)) (./01-linreg/08-extra-credit.tex [8
+)) (./01-linreg/08-extra-credit.tex [10
 
  <./pics/p01b_2.png> <./pics/p01e_2.png>] (./01-linreg/08-extra-credit-sol.tex)
-)) (./02-posonly/00-main.tex [9
+)) (./02-posonly/00-main.tex [11
 
 ]
-(./02-posonly/01-constant.tex (./02-posonly/01-constant-sol.tex))
-(./02-posonly/02-estimate-alpha.tex [10
+(./02-posonly/01-constant.tex (./02-posonly/01-constant-sol.tex
+Overfull \hbox (44.31992pt too wide) detected at line 12
+[][]
+ []
+
+)) (./02-posonly/02-estimate-alpha.tex [12
 
 ]
 (./02-posonly/02-estimate-alpha-sol.tex)) (./02-posonly/03-train-t-labels.tex
-[11
+[13
 
-] (./02-posonly/03-train-t-labels-sol.tex))
-(./02-posonly/04-train-y-labels.tex [12
+] (./02-posonly/03-train-t-labels-sol.tex
+<C:/Users/feroc/OneDrive/Notability/CS229 Machine Learning/problem_sets/ps1/src
+/output/p02c_pred.png, id=80, 462.528pt x 346.896pt>
+File: C:/Users/feroc/OneDrive/Notability/CS229 Machine Learning/problem_sets/ps
+1/src/output/p02c_pred.png Graphic file (type png)
+<use C:/Users/feroc/OneDrive/Notability/CS229 Machine Learning/problem_sets/ps1
+/src/output/p02c_pred.png>
+Package pdftex.def Info: C:/Users/feroc/OneDrive/Notability/CS229 Machine Learn
+ing/problem_sets/ps1/src/output/p02c_pred.png  used on input line 3.
+(pdftex.def)             Requested size: 379.38832pt x 284.52756pt.
+))
+(./02-posonly/04-train-y-labels.tex [14
 
-]
-(./02-posonly/04-train-y-labels-sol.tex)) (./02-posonly/05-plot.tex [13
+ <c:/Users/feroc/OneDrive/Notability/CS229 Machine Learning/problem_sets/ps1/sr
+c/output/p02c_pred.png>]
+(./02-posonly/04-train-y-labels-sol.tex
+<C:/Users/feroc/OneDrive/Notability/CS229 Machine Learning/problem_sets/ps1/src
+/output/p02d_pred.png, id=85, 462.528pt x 346.896pt>
+File: C:/Users/feroc/OneDrive/Notability/CS229 Machine Learning/problem_sets/ps
+1/src/output/p02d_pred.png Graphic file (type png)
+<use C:/Users/feroc/OneDrive/Notability/CS229 Machine Learning/problem_sets/ps1
+/src/output/p02d_pred.png>
+Package pdftex.def Info: C:/Users/feroc/OneDrive/Notability/CS229 Machine Learn
+ing/problem_sets/ps1/src/output/p02d_pred.png  used on input line 3.
+(pdftex.def)             Requested size: 379.38832pt x 284.52756pt.
+)) (./02-posonly/05-plot.tex [15
 
-]
-(./02-posonly/05-plot-sol.tex
-<pics/p02c.png, id=70, 462.528pt x 346.896pt>
+ <c:/Users/feroc/OneDrive/Notability/CS229 Machine Learning/problem_sets/ps1/sr
+c/output/p02d_pred.png>] (./02-posonly/05-plot-sol.tex
+<pics/p02c.png, id=90, 462.528pt x 346.896pt>
 File: pics/p02c.png Graphic file (type png)
 <use pics/p02c.png>
 Package pdftex.def Info: pics/p02c.png  used on input line 5.
 (pdftex.def)             Requested size: 125.18227pt x 93.88548pt.
-<pics/p02d.png, id=71, 462.528pt x 346.896pt>
+<pics/p02d.png, id=91, 462.528pt x 346.896pt>
 File: pics/p02d.png Graphic file (type png)
 <use pics/p02d.png>
 Package pdftex.def Info: pics/p02d.png  used on input line 10.
 (pdftex.def)             Requested size: 125.18227pt x 93.88548pt.
-<pics/p02e.png, id=72, 462.528pt x 346.896pt>
+<pics/p02e.png, id=92, 462.528pt x 346.896pt>
 File: pics/p02e.png Graphic file (type png)
 <use pics/p02e.png>
 Package pdftex.def Info: pics/p02e.png  used on input line 15.
 (pdftex.def)             Requested size: 125.18227pt x 93.88548pt.
-))) (./03-poisson/00-main.tex [14
-
- <./pics/p02c.png> <./pics/p02d.png> <./pics/p02e.png>] (./03-poisson/01-expone
-ntial.tex
-(./03-poisson/01-exponential-sol.tex)) (./03-poisson/02-response-fn.tex
-[15
-
-] (./03-poisson/02-response-fn-sol.tex)) (./03-poisson/03-gd-update.tex
+))) (./03-poisson/00-main.tex
 [16
 
-] (./03-poisson/03-gd-update-sol.tex)) (./03-poisson/04-regression.tex
-[17
+ <./pics/p02c.png> <./pics/p02d.png> <./pics/p02e.png>]
+(./03-poisson/01-exponential.tex (./03-poisson/01-exponential-sol.tex))
+(./03-poisson/02-response-fn.tex [17
 
-] (./03-poisson/04-regression-sol.tex))) (./04-glm-convexity/00-main.tex
-[18
+] (./03-poisson/02-response-fn-sol.tex))
+(./03-poisson/03-gd-update.tex [18
 
-] (./04-glm-convexity/01-mean.tex [19
+] (./03-poisson/03-gd-update-sol.tex))
+(./03-poisson/04-regression.tex [19
 
-] (./04-glm-convexity/01-mean-sol.tex)) (./04-glm-convexity/02-var.tex [20
+] (./03-poisson/04-regression-sol.tex)))
+(./04-glm-convexity/00-main.tex [20
 
-] (./04-glm-convexity/02-var-sol.tex))
-(./04-glm-convexity/03-hessian.tex [21
+] (./04-glm-convexity/01-mean.tex [21
+
+]
+(./04-glm-convexity/01-mean-sol.tex)) (./04-glm-convexity/02-var.tex [22
+
+]
+(./04-glm-convexity/02-var-sol.tex)) (./04-glm-convexity/03-hessian.tex
+[23
 
 ] (./04-glm-convexity/03-hessian-sol.tex))
 LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 5
 0.
- (d:/miscel/TexLive/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
+
+(d:/miscel/TexLive/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 50.
 )
-(./05-weighted/00-main.tex [22
+(./05-weighted/00-main.tex [24
 
 ] (./05-weighted/01-intro.tex
-(./05-weighted/01-intro-sol.tex [23
+(./05-weighted/01-intro-sol.tex [25
 
-])) (./05-weighted/02-impl.tex [24]
+])) (./05-weighted/02-impl.tex [26]
 (./05-weighted/02-impl-sol.tex
-<pics/tau_0d5.png, id=110, 462.528pt x 346.896pt>
+<pics/tau_0d5.png, id=131, 462.528pt x 346.896pt>
 File: pics/tau_0d5.png Graphic file (type png)
 <use pics/tau_0d5.png>
 Package pdftex.def Info: pics/tau_0d5.png  used on input line 5.
 (pdftex.def)             Requested size: 208.635pt x 156.47757pt.
-)) (./05-weighted/03-tau.tex [25
+)) (./05-weighted/03-tau.tex [27
 
  <./pics/tau_0d5.png>]
 Overfull \hbox (0.3484pt too wide) in paragraph at lines 2--10
@@ -487,17 +575,17 @@ Overfull \hbox (0.3484pt too wide) in paragraph at lines 2--10
  []
 
 (./05-weighted/03-tau-sol.tex
-<pics/tau_0d03.png, id=116, 462.528pt x 346.896pt>
+<pics/tau_0d03.png, id=136, 462.528pt x 346.896pt>
 File: pics/tau_0d03.png Graphic file (type png)
 <use pics/tau_0d03.png>
 Package pdftex.def Info: pics/tau_0d03.png  used on input line 5.
 (pdftex.def)             Requested size: 208.635pt x 156.47757pt.
-<pics/tau_0d05.png, id=117, 462.528pt x 346.896pt>
+<pics/tau_0d05.png, id=137, 462.528pt x 346.896pt>
 File: pics/tau_0d05.png Graphic file (type png)
 <use pics/tau_0d05.png>
 Package pdftex.def Info: pics/tau_0d05.png  used on input line 9.
 (pdftex.def)             Requested size: 208.635pt x 156.47757pt.
-<pics/tau_0d1.png, id=118, 462.528pt x 346.896pt>
+<pics/tau_0d1.png, id=138, 462.528pt x 346.896pt>
 File: pics/tau_0d1.png Graphic file (type png)
 <use pics/tau_0d1.png>
 Package pdftex.def Info: pics/tau_0d1.png  used on input line 13.
@@ -506,12 +594,12 @@ File: pics/tau_0d5.png Graphic file (type png)
 <use pics/tau_0d5.png>
 Package pdftex.def Info: pics/tau_0d5.png  used on input line 17.
 (pdftex.def)             Requested size: 208.635pt x 156.47757pt.
-<pics/tau_1d0.png, id=119, 462.528pt x 346.896pt>
+<pics/tau_1d0.png, id=139, 462.528pt x 346.896pt>
 File: pics/tau_1d0.png Graphic file (type png)
 <use pics/tau_1d0.png>
 Package pdftex.def Info: pics/tau_1d0.png  used on input line 21.
 (pdftex.def)             Requested size: 208.635pt x 156.47757pt.
-<pics/tau_10d0.png, id=120, 462.528pt x 346.896pt>
+<pics/tau_10d0.png, id=140, 462.528pt x 346.896pt>
 File: pics/tau_10d0.png Graphic file (type png)
 <use pics/tau_10d0.png>
 Package pdftex.def Info: pics/tau_10d0.png  used on input line 25.
@@ -531,45 +619,43 @@ Overfull \hbox (2.22221pt too wide) in paragraph at lines 3--27
 [] [] 
  []
 
-))) [26
+))) [28
 
-] [27 <./pics/tau_0d03.png> <./pics/tau_0d05.png> <./pics/tau_0d1.png> <./pics/
-tau_1d0.png> <./pics/tau_10d0.png>] (./ps1.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+] [29 <./pics/tau_0d03.png> <./pics/tau_0d05.png> <./pics/tau_0d1.png> <./pics/
+tau_1d0.png> <./pics/tau_10d0.png>] (./ps1.aux) ) 
 Here is how much of TeX's memory you used:
- 6217 strings out of 492167
- 93703 string characters out of 6122049
- 159062 words of memory out of 5000000
- 10316 multiletter control sequences out of 15000+600000
- 8017 words of font info for 31 fonts, out of 8000000 for 9000
+ 6280 strings out of 492167
+ 98245 string characters out of 6122049
+ 160076 words of memory out of 5000000
+ 10366 multiletter control sequences out of 15000+600000
+ 8412 words of font info for 34 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,12n,45p,366b,744s stack positions out of 5000i,500n,10000p,200000b,80000s
-<d:/miscel/TexLive/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmb
-x10.pfb><d:/miscel/TexLive/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmex10.pfb><d:/miscel/TexLive/texlive/2019/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmmi10.pfb><d:/miscel/TexLive/texlive/2019/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmmi5.pfb><d:/miscel/TexLive/texlive/2019/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmmi7.pfb><d:/miscel/TexLive/texlive/2019/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmr10.pfb><d:/miscel/TexLive/texlive/2019/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmr17.pfb><d:/miscel/TexLive/texlive/2019/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmr5.pfb><d:/miscel/TexLive/texlive/2019/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><d:/miscel/TexLive/texlive/2019
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><d:/miscel/TexLive/texlive/
-2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb><d:/miscel/TexLive/te
-xlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb><d:/miscel/TexL
-ive/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/misce
-l/TexLive/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><d:/
-miscel/TexLive/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pf
-b><d:/miscel/TexLive/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
-t10.pfb><d:/miscel/TexLive/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/
-symbols/msbm10.pfb>
-Output written on ps1.pdf (27 pages, 484591 bytes).
+ 55i,14n,45p,366b,744s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <c:/Users/feroc/.texlive2019/
+texmf-var/fonts/pk/ljfour/public/bbm/bbm10.600pk><d:/miscel/TexLive/texlive/201
+9/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><d:/miscel/TexLive/texli
+ve/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><d:/miscel/TexLive
+/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><d:/miscel/T
+exLive/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb><d:/mis
+cel/TexLive/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><d
+:/miscel/TexLive/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.p
+fb><d:/miscel/TexLive/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+r17.pfb><d:/miscel/TexLive/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr5.pfb><d:/miscel/TexLive/texlive/2019/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmr7.pfb><d:/miscel/TexLive/texlive/2019/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmr9.pfb><d:/miscel/TexLive/texlive/2019/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmsl10.pfb><d:/miscel/TexLive/texlive/2019/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmss10.pfb><d:/miscel/TexLive/texlive/2019/texmf-dist/font
+s/type1/public/amsfonts/cm/cmsy10.pfb><d:/miscel/TexLive/texlive/2019/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmsy7.pfb><d:/miscel/TexLive/texlive/2019/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><d:/miscel/TexLive/texlive/201
+9/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><d:/miscel/TexLive/texli
+ve/2019/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><d:/miscel/Te
+xLive/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on ps1.pdf (29 pages, 590063 bytes).
 PDF statistics:
- 187 PDF objects out of 1000 (max. 8388607)
- 113 compressed objects within 2 object streams
+ 215 PDF objects out of 1000 (max. 8388607)
+ 124 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 96 words of extra memory for PDF output out of 10000 (max. 10000000)
 

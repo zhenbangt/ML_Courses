@@ -6,19 +6,23 @@ $$
 \frac{\partial J(\theta)}{\partial \theta_j} &= -\frac{1}{m}\sum_{i=1}^m y^{(i)} (1-g(\theta^T x^{(i)}))x^{(i)}_j + (1-y^{(i)}) (-g(\theta^T x^{(i)})) x^{(i)}_j \\
     &=  -\frac{1}{m}\sum_{i=1}^m (y^{(i)}-g(\theta^T x^{(i)})) x^{(i)}_j
 	\end{aligned}
-
+$$
+$$
 	\begin{aligned}
 \therefore	
-\frac{\partial J(\theta)}{\partial \theta_j} &= -\frac{1}{m}\sum_{i=1}^m y^{(i)} (1-g(\theta^T x^{(i)}))x^{(i)}_j + (1-y^{(i)}) (-g(\theta^T x^{(i)})) x^{(i)}_j \\
-    &=  -\frac{1}{m}\sum_{i=1}^m (y^{(i)}-g(\theta^T x^{(i)})) x^{(i)}_j
+\frac{\partial^2 J(\theta)}{\partial \theta_j \partial \theta_k} 
+    &=  \frac{1}{m}\sum_{i=1}^m g(\theta^T x^{(i)})(1-g(\theta^T x^{(i)})) x^{(i)}_k x^{(i)}_j
 	\end{aligned}
 $$
 	
 And thus, for any $z$, 
 $$
     \begin{aligned}
-z^THz &= \frac{1}{m}\sum_{i=1}^m \sum_{j, k=1}^mg(\theta^Tx^{(i)})(1 - g(\theta^Tx^{(i)}))x_j^{(i)}x_k{^{(i)}} z_j z_k\\
+z^THz &= \sum_{j, k=0}^1 H_{jk}z_j z_k\\ 
+		&= \frac{1}{m}\sum_{i=1}^m \sum_{j, k=0}^1 g(\theta^Tx^{(i)})(1 - g(\theta^Tx^{(i)}))x_j^{(i)}x_k{^{(i)}} z_j z_k\\
         &= \frac{1}{m}\sum_{i=1}^m \sum_{j, k=1}^mg(\theta^Tx^{(i)})(1 - g(\theta^Tx^{(i)}))((x^{(i)})^Tz)^2 \ge 0
     \end{aligned}
 $$
+
+Q.E.D.
 \end{answer}
