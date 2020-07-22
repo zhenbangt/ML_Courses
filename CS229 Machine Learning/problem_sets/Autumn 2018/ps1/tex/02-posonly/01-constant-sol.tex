@@ -1,0 +1,15 @@
+\begin{answer}
+Use the indentity 
+$$\mathbbm{P}(A \cap B \cap C) = \mathbbm{P}(A \cap B | C) \mathbbm{P}(C) = \mathbbm{P}(A |B \cap C) \mathbbm{P}(B | C) \mathbbm{P}(C)$$
+$$
+\begin{aligned}
+\mathbbm{P}(t^{(i)}=1|x^{(i)}) &= \mathbbm{P}(t^{(i)}=1,y^{(i)}=1|x^{(i)}) + \mathbbm{P}(t^{(i)}=1,y^{(i)}=0|x^{(i)}) \\
+&=\underbrace{\mathbbm{P}(t^{(i)}=1|y^{(i)}=1,x^{(i)})}_{=1} \mathbbm{P}(y^{(i)}=1|x^{(i)}) + \mathbbm{P}(y^{(i)}=0|t^{(i)}=1,x^{(i)})\mathbbm{P}(t^{(i)}=1|x^{(i)}) \\
+\therefore \mathbbm{P}(t^{(i)}=1|x^{(i)}) &=\frac{\mathbbm{P}(y^{(i)}=1|x^{(i)})}{1 - \mathbbm{P}(y^{(i)}=0|t^{(i)}=1,x^{(i)})}\\
+&= \frac{\mathbbm{P}(y^{(i)}=1|x^{(i)})}{\mathbbm{P}(y^{(i)}=1|t^{(i)}=1,x^{(i)})} \\
+&= \frac{\mathbbm{P}(y^{(i)}=1|x^{(i)})}{\mathbbm{P}(y^{(i)}=1|t^{(i)}=1)}
+\end{aligned}
+$$
+
+
+\end{answer}
