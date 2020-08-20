@@ -10,4 +10,6 @@ This is a repo for my commitments to some interesting CS subjects I take through
 	- Warm up/Review some Deep Learning through [MIT 6.S191](http://introtodeeplearning.com/)  ~~Got to prepare for job interviews~~ Too fun, can't resist doing it
  	- Refresh and learn some SQL/Java
 	- [Deep Evidental Regression](https://arxiv.org/pdf/1910.02600.pdf), 
-  
+	
+- 8 Aug 2020 - 19 Aug 2020
+  	- Coursera Deep Learning Specialisation; Stanford CS230
