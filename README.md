@@ -15,4 +15,4 @@ This is a repo for my commitments to some interesting CS subjects I take through
   	- Coursera Deep Learning Specialisation; Stanford CS230
 	
 - 25 Aug 2020
-  	- Stanford CS230 Lec 8 is gold :/
+  	- Stanford CS230 Lec 8 is gold :/ excellent guideline for future career development
