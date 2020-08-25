@@ -13,3 +13,6 @@ This is a repo for my commitments to some interesting CS subjects I take through
 	
 - 8 Aug 2020 - 19 Aug 2020
   	- Coursera Deep Learning Specialisation; Stanford CS230
+	
+- 25 Aug 2020
+  	- Stanford CS230 Lec 8 is gold :/
