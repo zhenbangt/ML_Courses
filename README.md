@@ -20,3 +20,4 @@ This is a repo for my commitments to some interesting CS subjects I take through
 	- some of the most exciting work to be done is to also look outside of the tech industry, and look at the traditional industries that do not have shiny tech thing,
 	the value creation there may be even bigger 
 	- (notice how large tech companies are working at the same problem, just as so many people are mining bitcoins. They still worth a lot, but you can create more value by mining ethereum)
+	- examples: manufacturing, agriculture, healthcare 
