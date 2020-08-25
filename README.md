@@ -16,3 +16,4 @@ This is a repo for my commitments to some interesting CS subjects I take through
 	
 - 25 Aug 2020
   	- Stanford CS230 Lec 8 is gold :/ excellent guideline for future career development
+	- next question: What is defined as important work? What is defined as a good AI team?
