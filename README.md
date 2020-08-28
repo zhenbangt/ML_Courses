@@ -21,3 +21,6 @@ This is a repo for my commitments to some interesting CS subjects I take through
 	the value creation there may be even bigger 
 	- (notice how large tech companies are working at the same problem, just as so many people are mining bitcoins. They still worth a lot, but you can create more value by mining ethereum)
 	- examples: manufacturing, agriculture, healthcare 
+	
+- 28 Aug 2020
+  	- CS229 Lec 15: There is a gap in the ML algorithm (algorithm is different for different smaple sizes), and we dont have a good understanding how to modify an algorithm, so that a single algorithm fits all of the spectrum
