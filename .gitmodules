@@ -1,3 +1,7 @@
 [submodule "6S191 MIT DL/introtodeeplearning"]
 	path = 6S191 MIT DL/introtodeeplearning
 	url = https://github.com/zhenbangt/introtodeeplearning.git
+
+[submodule "CS229 Machine Learning PS"]
+	path = CS229 Machine Learning PS
+	url = https://github.com/zhenbangt/CS229-Machine-Learning-Problem-Sets.git
