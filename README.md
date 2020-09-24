@@ -24,3 +24,7 @@ This is a repo for my commitments to some interesting CS subjects I take through
 	
 - 28 Aug 2020
   	- CS229 Lec 15: There is a gap in the ML algorithm (algorithm is different for different smaple sizes), and we dont have a good understanding how to modify an algorithm, so that a single algorithm fits all of the spectrum
+	
+- 24 Sept 2020
+  	- Exploiting opponent's mistakes in few shot learning setting - the ability of meta-evaluation (e.g. how aggressive a player is) seems like a good regulariser that allows us to pick up new games fairly quickly
+
