@@ -27,4 +27,5 @@ This is a repo for my commitments to some interesting CS subjects I take through
 	
 - 24 Sept 2020
   	- Exploiting opponent's mistakes in few shot learning setting - the ability of meta-evaluation (e.g. how aggressive a player is) seems like a good regulariser that allows us to pick up new games fairly quickly
+	- Catastrophic forgetting vs. critical learning periods: negative backward vs negative forward transfer?
 
